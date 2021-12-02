@@ -1,0 +1,11 @@
+D:\faks\tvp\projekat 2\NRT1-19\NRT1-19\bin\Debug\NRT1-19.exe.config
+D:\faks\tvp\projekat 2\NRT1-19\NRT1-19\bin\Debug\NRT1-19.exe
+D:\faks\tvp\projekat 2\NRT1-19\NRT1-19\bin\Debug\NRT1-19.pdb
+D:\faks\tvp\projekat 2\NRT1-19\NRT1-19\obj\Debug\NRT1-19.csprojAssemblyReference.cache
+D:\faks\tvp\projekat 2\NRT1-19\NRT1-19\obj\Debug\NRT1_19.Form1.resources
+D:\faks\tvp\projekat 2\NRT1-19\NRT1-19\obj\Debug\NRT1_19.Properties.Resources.resources
+D:\faks\tvp\projekat 2\NRT1-19\NRT1-19\obj\Debug\NRT1-19.csproj.GenerateResource.cache
+D:\faks\tvp\projekat 2\NRT1-19\NRT1-19\obj\Debug\NRT1-19.csproj.CoreCompileInputs.cache
+D:\faks\tvp\projekat 2\NRT1-19\NRT1-19\obj\Debug\NRT1-19.exe
+D:\faks\tvp\projekat 2\NRT1-19\NRT1-19\obj\Debug\NRT1-19.pdb
+D:\faks\tvp\projekat 2\NRT1-19\NRT1-19\obj\Debug\NRT1_19.Form2.resources
